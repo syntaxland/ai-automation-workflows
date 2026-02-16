@@ -183,6 +183,7 @@ Prevents silent data corruption and maintains operational reliability.
 - OpenAI / Claude APIs
 - Stripe Webhooks
 - HubSpot API
+- Salesforce 
 - Apollo API
 - WordPress API
 - Slack API
