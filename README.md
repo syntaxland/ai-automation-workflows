@@ -1,8 +1,8 @@
-# AI Automation Workflows Portfolio (n8n, Zapier, Make, HubSpot, ClickUp)
+# AI Automation Workflows Portfolio (n8n, Zapier, Make)
 
 > End-to-end AI-powered automation systems for monetizable digital products, revenue operations, and scalable workflows.
 
-This repository showcases production-style AI and automation workflows built using n8n and API integrations.
+This repository showcases production-style AI and automation workflows built using n8n, Zapier, Make and API integrations.
 
 The systems focus on monetizable digital products, revenue operations automation, intelligent lead routing, and scalable AI-powered content workflows.
 
