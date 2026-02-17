@@ -12,6 +12,8 @@ The systems focus on monetizable digital products, revenue operations automation
 
 Advanced retrieval-augmented chatbot built using embeddings and vector search.
 
+**[Try Chat Agent Now](https://softai.app.n8n.cloud/webhook/415be290-ce4f-42a1-a19f-03be92471078/chat)**
+
 **Flow:**  
 Document Load → Embeddings → Pinecone Vector Store → Question Answer Chain → AI Response  
 
