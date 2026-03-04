@@ -231,3 +231,5 @@ The focus is on:
 ---
 
 This demonstrates practical AI integration focused on business outcomes, automation scalability, and monetizable system design.
+
+**[Portfolio (Meet JB)](http://softglobal-webapp.s3-website-us-east-1.amazonaws.com/meet-jb)**
