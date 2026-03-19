@@ -59,6 +59,7 @@ Demonstrates:
 - API-first automation workflows  
 
 ![AI Voice Agent](screenshots/ai-voice-agent-workflow.png)
+![AI Voice Agent](screenshots/ai-voice-agent-lab.png)
 
 ---
 
