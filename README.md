@@ -23,7 +23,7 @@ Enables context-aware AI conversations using internal knowledge bases instead of
 
 Demonstrates:
 
-- Vector database integration (Pinecone)  
+- Vector database integration (Pinecone)    
 - Embeddings workflow  
 - Retrieval-augmented generation (RAG)  
 - Multi-step AI orchestration  
@@ -32,6 +32,33 @@ Demonstrates:
 ![RAG Chat Agent](screenshots/rag-chat-agent-workflow.png)
 ![RAG Chat Agent](screenshots/rag-chat-agent-interface.png)
 
+
+---
+
+## AI Voice Agent – n8n + ElevenLabs + LLM Automation
+
+Real-time AI voice agent built with n8n, integrating LLM reasoning, memory, and external tools for intelligent conversational automation.
+
+**[Live Voice Agent Demo (ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_0001km2nefwnf9m8sdj90e2p1vpw&branch_id=agtbrch_3301km2nehnnf139115jpnv753k5)**
+
+**Flow:**  
+Webhook → AI Agent (Groq LLM + Memory) → Tools (Gmail / HubSpot / Perplexity) → Response  
+
+Enables intelligent, voice-enabled AI interactions that can:
+- respond conversationally  
+- retrieve external data  
+- trigger real-world actions (emails, CRM search, etc.)
+
+Demonstrates:
+
+- n8n AI Agent orchestration  
+- LLM integration (Groq / multi-model support)  
+- Voice AI integration (ElevenLabs)  
+- Tool calling (Gmail, HubSpot, Perplexity)  
+- Memory-enabled conversations  
+- API-first automation workflows  
+
+![AI Voice Agent](screenshots/ai-voice-agent-workflow.png)
 
 ---
 
