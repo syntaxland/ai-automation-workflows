@@ -35,7 +35,7 @@ Demonstrates:
 
 ---
 
-## AI Voice Agent – n8n + ElevenLabs + LLM Automation
+## AI Support Voice Agent – n8n + ElevenLabs + LLM Automation
 
 Real-time AI voice agent built with n8n, integrating LLM reasoning, memory, and external tools for intelligent conversational automation.
 
