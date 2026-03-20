@@ -213,7 +213,8 @@ Prevents silent data corruption and maintains operational reliability.
 # Technologies Used
 
 - n8n
-- OpenAI / Claude APIs
+- OpenAI / Claude / Groq / Gemini APIs
+- ElevenLabs
 - Stripe Webhooks
 - HubSpot API
 - Salesforce 
