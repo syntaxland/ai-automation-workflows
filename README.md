@@ -35,11 +35,11 @@ Demonstrates:
 
 ---
 
-## AI Support Voice Agent – n8n + ElevenLabs + LLM Automation
+## AI Voice Support Agent – n8n + ElevenLabs + LLM Automation
 
 Real-time AI voice agent built with n8n, integrating LLM reasoning, memory, and external tools for intelligent conversational automation.
 
-**[Live Voice Agent Demo1 (ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_0201km7wj4eyehzr8h4k3ze56vfg&branch_id=agtbrch_8401km7wj65sf288w4yn8ep8m1kz)**
+**[Live Voice Agent Demo1 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_0201km7wj4eyehzr8h4k3ze56vfg&branch_id=agtbrch_8401km7wj65sf288w4yn8ep8m1kz)**
 
 **Flow:**  
 Webhook → AI Agent (Groq LLM + Memory) → Tools (Gmail / HubSpot / Perplexity) → Response  
@@ -61,7 +61,7 @@ Demonstrates:
 ![AI Voice Agent](screenshots/ai-voice-agent-workflow.png)
 ![AI Voice Agent](screenshots/ai-voice-agent-workflow-sheet.png)
 
-**[Live Voice Agent Demo2 (ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kmampn6je81ryh5tz39p0vhf&branch_id=agtbrch_3401kmampq1fe8ms0v4fp333vqce)**
+**[Live Voice Agent Demo2 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kmampn6je81ryh5tz39p0vhf&branch_id=agtbrch_3401kmampq1fe8ms0v4fp333vqce)**
 
 ![AI Voice Agent](screenshots/ai-voice-agent-lab.png)
 
