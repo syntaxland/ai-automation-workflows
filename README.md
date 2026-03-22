@@ -54,7 +54,7 @@ Demonstrates:
 - n8n AI Agent orchestration  
 - LLM integration (Groq / multi-model support)  
 - Voice AI integration (ElevenLabs)  
-- Tool calling (Gmail, HubSpot, Perplexity)  
+- Tool calling (Gmail, HubSpot/Google Sheet, Perplexity)  
 - Memory-enabled conversations  
 - API-first automation workflows  
 
