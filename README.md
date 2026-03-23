@@ -64,7 +64,7 @@ Demonstrates:
 **[Live Voice Agent Demo2 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kmampn6je81ryh5tz39p0vhf&branch_id=agtbrch_3401kmampq1fe8ms0v4fp333vqce)**
 
 ![AI Voice Agent](screenshots/ai-voice-agent-lab.png)
-
+**[Loom Video Walkthrough](https://www.loom.com/share/8aed98f376f34096989ccc1c260cf81c)**
 ---
 
 ## Sales Agent – AI Lead Qualification & CRM Automation
