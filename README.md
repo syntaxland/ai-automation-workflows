@@ -34,9 +34,13 @@ Demonstrates:
 ![RAG Chat Agent](screenshots/rag-chat-agent-workflow.png)
 ![RAG Chat Agent](screenshots/rag-chat-agent-interface.png)
 
-**[Loom Video Workthrough (Portfolio: Fullstack + AI/LLM)](https://www.loom.com/share/3cafe65c08384f6da42f51c01f8e19ed)**
-**[Paysofter.com | OR via  S3 Bucket:)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
-**[Swagger Docs:)](api.paysofter.com/swagger)**
+
+
+- **[Loom Video Workthrough (Portfolio: Fullstack + AI/LLM)](https://www.loom.com/share/3cafe65c08384f6da42f51c01f8e19ed)**
+
+- **[Paysofter.com | OR via  S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+
+- **[Paysofter Swagger Docs:)](api.paysofter.com/swagger)**
 
 
 ---
