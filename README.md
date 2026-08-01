@@ -6,6 +6,8 @@ This repository showcases production-style AI and automation workflows built usi
 
 The systems focus on monetizable digital products, revenue operations automation, intelligent lead routing, and scalable AI-powered content workflows.
 
+**[Portfolio (Meet JB)](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)**
+
 ---
 
 ## RAG Chat Agent – Vector-Powered AI Assistant
@@ -31,6 +33,10 @@ Demonstrates:
 
 ![RAG Chat Agent](screenshots/rag-chat-agent-workflow.png)
 ![RAG Chat Agent](screenshots/rag-chat-agent-interface.png)
+
+**[Loom Video Workthrough (Portfolio: Fullstack + AI/LLM)](https://www.loom.com/share/3cafe65c08384f6da42f51c01f8e19ed)**
+**[Paysofter.com | OR via  S3 Bucket:)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+**[Swagger Docs:)](api.paysofter.com/swagger)**
 
 
 ---
@@ -265,4 +271,3 @@ The focus is on:
 
 This demonstrates practical AI integration focused on business outcomes, automation scalability, and monetizable system design.
 
-**[Portfolio (Meet JB)](http://softglobal-webapp.s3-website-us-east-1.amazonaws.com/meet-jb)**
