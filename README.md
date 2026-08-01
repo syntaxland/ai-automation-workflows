@@ -38,9 +38,9 @@ Demonstrates:
 
 - **[Loom Video Workthrough (Portfolio: Fullstack + AI/LLM)](https://www.loom.com/share/3cafe65c08384f6da42f51c01f8e19ed)**
 
-- **[Paysofter.com | OR via  S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+- **[Paysofter.com (OR via  S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
 
-- **[Paysofter Swagger Docs)](https://api.paysofter.com/swagger)**
+- **[Paysofter Swagger Docs](https://api.paysofter.com/swagger)**
 
 
 ---
