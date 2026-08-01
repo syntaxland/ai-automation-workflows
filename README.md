@@ -40,7 +40,7 @@ Demonstrates:
 
 - **[Paysofter.com (OR via  S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
 
-- **[Paysofter Swagger Docs](https://api.paysofter.com/swagger)**
+- **[Paysofter Swagger Docs (Python DRF Backend)](https://api.paysofter.com/swagger)**
 
 
 ---
