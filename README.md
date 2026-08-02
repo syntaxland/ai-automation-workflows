@@ -6,7 +6,42 @@ This repository showcases production-style AI and automation workflows built usi
 
 The systems focus on monetizable digital products, revenue operations automation, intelligent lead routing, and scalable AI-powered content workflows.
 
-**[Portfolio (Meet JB)](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)**
+
+**[Portfolio (Meet JB) => Rendered in ThreeJS](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)**
+
+
+---
+
+## AI Voice Support Agent – n8n + ElevenLabs + LLM Automation
+
+Real-time AI voice agent built with n8n, integrating LLM reasoning, memory, and external tools for intelligent conversational automation.
+
+**[Live Voice Agent Demo1 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_0201km7wj4eyehzr8h4k3ze56vfg&branch_id=agtbrch_8401km7wj65sf288w4yn8ep8m1kz)**
+
+**Flow:**  
+Webhook → AI Agent (Groq LLM + Memory) → Tools (Gmail / HubSpot / Perplexity) → Response  
+
+Enables intelligent, voice-enabled AI interactions that can:
+- respond conversationally  
+- retrieve external data  
+- trigger real-world actions (emails, CRM search, etc.)
+
+Demonstrates:
+
+- n8n AI Agent orchestration  
+- LLM integration (Groq / multi-model support)  
+- Voice AI integration (ElevenLabs)  
+- Tool calling (Gmail, HubSpot/Google Sheet, Perplexity)  
+- Memory-enabled conversations  
+- API-first automation workflows  
+
+![AI Voice Agent](screenshots/ai-voice-agent-workflow.png)
+![AI Voice Agent](screenshots/ai-voice-agent-workflow-sheet.png)
+
+**[Live Voice Agent Demo2 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kmampn6je81ryh5tz39p0vhf&branch_id=agtbrch_3401kmampq1fe8ms0v4fp333vqce)**
+
+![AI Voice Agent](screenshots/ai-voice-agent-lab.png)
+**[Loom Video Walkthrough](https://www.loom.com/share/8aed98f376f34096989ccc1c260cf81c)**
 
 ---
 
@@ -43,38 +78,7 @@ Demonstrates:
 - **[Paysofter Swagger Docs (Python DRF Backend)](https://api.paysofter.com/swagger)**
 
 
----
 
-## AI Voice Support Agent – n8n + ElevenLabs + LLM Automation
-
-Real-time AI voice agent built with n8n, integrating LLM reasoning, memory, and external tools for intelligent conversational automation.
-
-**[Live Voice Agent Demo1 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_0201km7wj4eyehzr8h4k3ze56vfg&branch_id=agtbrch_8401km7wj65sf288w4yn8ep8m1kz)**
-
-**Flow:**  
-Webhook → AI Agent (Groq LLM + Memory) → Tools (Gmail / HubSpot / Perplexity) → Response  
-
-Enables intelligent, voice-enabled AI interactions that can:
-- respond conversationally  
-- retrieve external data  
-- trigger real-world actions (emails, CRM search, etc.)
-
-Demonstrates:
-
-- n8n AI Agent orchestration  
-- LLM integration (Groq / multi-model support)  
-- Voice AI integration (ElevenLabs)  
-- Tool calling (Gmail, HubSpot/Google Sheet, Perplexity)  
-- Memory-enabled conversations  
-- API-first automation workflows  
-
-![AI Voice Agent](screenshots/ai-voice-agent-workflow.png)
-![AI Voice Agent](screenshots/ai-voice-agent-workflow-sheet.png)
-
-**[Live Voice Agent Demo2 (n8n + ElevenLabs)](https://elevenlabs.io/app/talk-to?agent_id=agent_3101kmampn6je81ryh5tz39p0vhf&branch_id=agtbrch_3401kmampq1fe8ms0v4fp333vqce)**
-
-![AI Voice Agent](screenshots/ai-voice-agent-lab.png)
-**[Loom Video Walkthrough](https://www.loom.com/share/8aed98f376f34096989ccc1c260cf81c)**
 ---
 
 ## Sales Agent – AI Lead Qualification & CRM Automation
