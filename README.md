@@ -279,4 +279,4 @@ The focus is on:
 
 This demonstrates practical AI integration focused on business outcomes, automation scalability, and monetizable system design.
 
-**[Resume](https://drive.google.com/file/d/1N63DrFzR0Cd8CajHrlhsas0bbTxX_F7U/view?usp=sharing)**
+**[Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
