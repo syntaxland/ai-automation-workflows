@@ -52,7 +52,7 @@ Advanced retrieval-augmented chatbot built using embeddings and vector search.
 
 <!-- **[Rag Chat Agent(n8n cloud)](https://softerai.app.n8n.cloud/webhook/415be290-ce4f-42a1-a19f-03be92471078/chat)** -->
 
-- **[Paysofter.com (OR via  S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+- **[Paysofter.com (OR via AWS S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
 
 - **[Paysofter RAG Chat Agent (n8n open-source AWS Docker self-hosted)](https://n8n.paysofter.com/webhook/415be290-ce4f-42a1-a19f-03be92471078/chat)**
 
