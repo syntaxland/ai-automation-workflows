@@ -9,6 +9,7 @@ The systems focus on monetizable digital products, revenue operations automation
 
 **[Portfolio (Meet JB) => Rendered in ThreeJS](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)**
 
+**[See Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
 
 ---
 
@@ -278,5 +279,3 @@ The focus is on:
 ---
 
 This demonstrates practical AI integration focused on business outcomes, automation scalability, and monetizable system design.
-
-**[Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
