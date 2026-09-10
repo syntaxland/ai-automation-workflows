@@ -7,7 +7,7 @@ This repository showcases production-style AI and automation workflows built usi
 The systems focus on monetizable digital products, revenue operations automation, intelligent lead routing, and scalable AI-powered content workflows.
 
 
-**[Full Portfolio (Meet JB) => Rendered in ThreeJS (AWS S3 Bucket)](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)**
+**[Full Portfolio (Meet JB) => Rendered in ThreeJS (AWS S3 Bucket)](https://softglobal.org/meet-jb)** **[(or via AWS S3 Bucket)](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)** 
 
 **[See Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
 
@@ -52,7 +52,7 @@ Advanced retrieval-augmented chatbot built using embeddings and vector search.
 
 <!-- **[Rag Chat Agent(n8n cloud)](https://softerai.app.n8n.cloud/webhook/415be290-ce4f-42a1-a19f-03be92471078/chat)** -->
 
-- **[Paysofter.com (OR via AWS S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+- **[Paysofter.com](https://paysofter.com)** **[(or via AWS S3 Bucket)](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
 
 - **[Paysofter RAG Chat Agent (n8n open-source AWS Docker self-hosted)](https://n8n.paysofter.com/webhook/415be290-ce4f-42a1-a19f-03be92471078/chat)**
 
