@@ -10,9 +10,9 @@ The systems focus on monetizable digital products, revenue operations automation
 
 - Portfolio: **[Meet JB](https://softglobal.org/meet-jb)** => Rendered in ThreeJS or via **[AWS S3 Bucket](http://softglobal-web.s3-website-us-east-1.amazonaws.com/meet-jb)** 
 
-- See **[Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
-
 - Fintech: **[Paysofter.com](https://paysofter.com)** or via **[AWS S3 Bucket](http://paysofter-tech.s3-website-us-east-1.amazonaws.com)**
+
+- More? See **[Resume](https://drive.google.com/file/d/1QXPpcup2dRF8F_ATB4hAIsgYVYkyvDIr/view?usp=sharing)**
 
 ---
 
